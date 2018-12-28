@@ -10,10 +10,6 @@ Most people tend to veer towards either literature or linguistics after completi
 In addition to English, I also study Spanish, which will be my minor. I also have an interest in language technology, which I have recently started to study.
 I like to study literature and I also enjoy reading in my free time.
 
-## CV
-
-[My CV](https://www.overleaf.com/read/jsgqmxkdmwcx)
-
 ## Find me on
 
 [GitHub](https://github.com/jaajenni)
@@ -36,9 +32,6 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
-
 ## Misc. 
 
-[English Philology](https://www.helsinki.fi/en/faculty-of-arts/research/disciplines/languages/english-philology)
-
-
+[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese)
